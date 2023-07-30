@@ -10,6 +10,8 @@ Sebelum memulai, pastikan Anda telah menginstal beberapa prasyarat berikut:
 
 ## Instalasi
 
+Ubah terlebih dahulu API Endpoint menjadi IP server terbaru pada `src/utils/apiEndpoint.js`
+
 Berikut adalah langkah-langkah untuk menjalankan proyek menggunakan ReactJS
 
 ```bash
