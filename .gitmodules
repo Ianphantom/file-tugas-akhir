@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Ianphantom/satusehat_frontend.git
+[submodule "blockchain"]
+	path = blockchain
+	url = https://github.com/Ianphantom/blockchain_satu_sehat.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Ianphantom/backend-satusehat.git
